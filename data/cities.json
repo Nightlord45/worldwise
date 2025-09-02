@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "d4b1",
+      "cityName": "Loeches",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-09-02T16:42:10.974Z",
+      "notes": "",
+      "position": {
+        "lat": "40.40513069752789",
+        "lng": "-3.4167480468750004"
+      }
+    },
+    {
+      "id": "020e",
+      "cityName": "Loeches",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-09-02T16:45:13.318Z",
+      "notes": "",
+      "position": {
+        "lat": "40.40513069752789",
+        "lng": "-3.4167480468750004"
+      }
+    },
+    {
+      "id": "53bc",
+      "cityName": "Orleans",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-09-02T16:45:45.761Z",
+      "notes": "",
+      "position": {
+        "lat": "47.90253419539088",
+        "lng": "1.9081878662109377"
+      }
+    }
+  ]
+}
